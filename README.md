@@ -1,6 +1,6 @@
-# 《数据结构（C语言版）（第2版）》
+# 《数据结构-python语言描述》
 
-<img src="https://github.com/WangRongsheng/DS_Yanweimin/blob/master/img/book.jpg" alt="数据结构" align="center" />
+<img src="https://github.com/WangRongsheng/DS-python_Zhangguanghe/blob/master/img/book.jpg" alt="数据结构" align="center" />
 
 :whale2: 大学《数据结构-python语言描述》 张光河版的配套PPT/源代码/实验安排/课时安排
 
